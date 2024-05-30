@@ -1,0 +1,4 @@
+<launch>
+    <!-- Start the obstacle avoider node -->
+    <node pkg="turtlebot3_example" type="obstacle_avoider" name="obstacle_avoider" output="screen"/>
+</launch>
